@@ -1,2 +1,2 @@
 # wytings.github.io
-my blog
+http://www.cnblogs.com/wytings
